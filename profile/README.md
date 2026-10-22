@@ -1,8 +1,11 @@
 # 🌐 Ko‘priKew Organization
 
-Musofirlikda yurgan vatandoshlarimiz uchun foydali va yordam beruvchi raqamli lohiyalar.
+Loyiha haqida: Musofirlikda yurgan vatandoshlarimiz uchun foydali va yordam beruvchi raqamli lohiyalar.
 
 Ushbu GitHub tashkiloti xorijda (Rossiyada va Amerika, Kareya, Germaniya va boshqa davlatlarda) yashayotgan, ishlayotgan yoki o‘qiyotgan **o‘zbeklarni qo‘llab-quvvatlash**, ularning hayotini osonlashtirish va og‘irini yengil qilishga qaratilgan **Open-Source (ochiq kodli) loyihalar jamlanmasidir**.
+
+## Nega men bu ko‘prikni quryapman?
+Chet elda yashash — bu yangi imkoniyatlar, lekin ayni paytda til, hujjatlar, ish va kundalik hayot masalalarida yordam kerak bo‘ladi. Ko‘priKew shu bo‘shliqni to‘ldiradi).
 
 ---
 
