@@ -1,5 +1,7 @@
 # 🌐 Ko‘priKew Organization
 
+> Ushbu loyiha rasmiy davlat xizmati emas. Ma’lumotlar faqat yo‘naltiruvchi maqsadda beriladi. Rasmiy qarorlar va to‘lovlar uchun tegishli davlat organlarining rasmiy manbalariga murojaat qiling.
+
 Loyiha haqida: Musofirlikda yurgan vatandoshlarimiz uchun foydali va yordam beruvchi raqamli lohiyalar.
 
 Ushbu GitHub tashkiloti xorijda (Rossiyada va Amerika, Kareya, Germaniya va boshqa davlatlarda) yashayotgan, ishlayotgan yoki o‘qiyotgan **o‘zbeklarni qo‘llab-quvvatlash**, ularning hayotini osonlashtirish va og‘irini yengil qilishga qaratilgan **Open-Source (ochiq kodli) loyihalar jamlanmasidir**.
